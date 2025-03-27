@@ -2,7 +2,7 @@
   // === Shared Constants and Helper Functions ===
 
   // stripe: production backend endpoint
-  const RAILWAY_BASE_URL_STRIPE = 'https://tesl-production-523c.up.railway.app';
+  const RAILWAY_BASE_URL_STRIPE = 'https://stripe-perfectbody-production.up.railway.app';
   const RAILWAY_API_SLUG_STRIPE = '/api/store-fb-data';
 
   // square: local backend endpoint
