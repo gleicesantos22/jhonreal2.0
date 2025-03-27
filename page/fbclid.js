@@ -6,7 +6,7 @@
   const RAILWAY_API_SLUG_STRIPE = '/api/store-fb-data';
 
   // square: local backend endpoint
-  const RAILWAY_BASE_URL_SQUARE = 'https://tesl-production-556f.up.railway.app';
+  const RAILWAY_BASE_URL_SQUARE = 'https://perfectbodyfunnl-production-37a1.up.railway.app';
   const RAILWAY_API_SLUG_SQUARE = '/api/store-fb-data';
 
   // UPDATED: Use 1200226101753260
